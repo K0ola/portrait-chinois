@@ -1,0 +1,246 @@
+@import url('https://fonts.googleapis.com/css2?family=La+Belle+Aurore&family=Montserrat+Alternates:wght@600&display=swap');
+/*font-family: 'La Belle Aurore', cursive;*/
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+/*font-family: 'Lobster', cursive;*/
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@700&display=swap');
+/*font-family: 'Libre Baskerville', serif;*/
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@700&display=swap');
+/*font-family: 'Comfortaa', cursive;*/
+
+
+body
+{
+  /*background-color: rgb(53, 51, 51);*/
+  background-image: url("images/purple_montain.png");
+  /*background-clip: url("sounds-images/Tom-Odell-another-love-video.mp4");*/
+  text-align: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#titre {
+    text-align: center;
+    margin-bottom: 10px;    
+    font-family: 'Comfortaa', cursive;
+    
+}
+
+
+#sous_titre {
+    text-align: center;
+    margin-bottom: 30px;
+    font-family: 'Comfortaa', cursive;
+}
+
+.white {
+    color: white;
+}
+#cercle {
+    border:solid;
+    width: 400px;
+    height: 400px;
+    border-radius: 250px;
+    border-color: rgb(163, 18, 230);
+    margin-top: 50px;
+    text-align: center;
+    margin: auto;
+    margin-top: 14%;
+    background-image: url("images/gif_violet.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 3px;
+    
+    box-shadow:  0 0 7px rgb(163, 18, 230), 
+    0 0 10px rgb(163, 18, 230), 
+    0 0 42px rgb(163, 18, 230),   
+    0 0 77px rgb(163, 18, 230), 
+    0 0 100px rgb(163, 18, 230)
+}
+
+
+.img-center{
+    width: 503px;
+    height: 503px;
+    border-radius: 503px;
+    opacity: 25%;
+    position: absolute;
+}
+
+
+
+
+#boite_principale {
+    width: 738px;
+    height: 748px;
+    border: none;
+    text-align: center;
+    margin-top: auto;
+    position: relative;
+    margin: auto;
+}
+
+
+.text-box {
+    color: white;
+    margin:auto;
+    font-weight: 700;
+    font-size: 20px;
+    font-family: 'Libre Baskerville', serif;
+}
+
+
+#joke {
+
+    width: 5px;
+    height: 5px;
+    border-radius: 5px;
+    position: absolute;
+    top: 63.28%;
+    left: 22.25%;
+
+}
+
+
+
+.joke_bloc {
+    display: block;
+    height: 100%;
+    /* width: auto */
+}
+
+
+#text-central{
+    color: whitesmoke;
+    margin-top: 10%;
+    font-size: larger;
+    font-weight: 400;
+}
+
+
+.background_change {
+    width: 100%;
+    height: 100%;
+}
+
+
+video {
+    -o-object-fit: cover;
+       object-fit: cover;
+
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: -1;
+}
+
+img {
+    -o-object-fit: cover;
+       object-fit: cover;
+
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: -1;
+}
+
+
+@media screen and (max-width: 767px) {
+
+    #back {
+        display: none;
+    }
+}
+
+#anal_perso{
+    margin-bottom: 60px;
+}
+
+.formulaire {
+    margin-top: -50px;
+    padding-top: 20px;
+    padding: 10px;
+    text-align: center;
+    background-color: rgba(137, 43, 226, 0.315);
+    border: solid;
+    margin-left: 34%;
+    width: 30%
+}
+
+#bSEND{
+    margin-left: 45%;
+    font-size: large;
+    text-align: center;
+    border: solid;
+    border-radius: 10px;
+    width: fit-content;
+    padding: 4px;
+    background-color: rgba(0, 255, 255, 0.404);
+}
+
+#bSEND:hover{
+    cursor: pointer;
+}
+
+
+#bmention{
+    text-align: center;
+    font-size: small;
+    margin-top: 2%;
+    margin-left: 46%;
+}
+
+.box_mention {
+    border: solid;
+    border-color: black;
+    width: 150px;
+    height: 75px;
+    border-radius: 20px;
+    background-color: #650db1;
+    text-align: center;
+    display: flex;
+
+    text-decoration: none;
+    transition: all 0.1s;
+    -webkit-transition: all 0.1s;
+}
+
+.box_mention:hover {
+    background-color: #580d9a;
+    cursor: pointer;
+  }
+
+.box_mention:active {
+    transform: translate(0px,5px);
+    -webkit-transform: translate(0px,5px);
+    border-bottom: 1px solid;
+}
+
+
+#mentions{
+    margin-top: 4px;
+
+}
+
+#mentions_legales{
+    border: solid;
+    margin-left: 17%;
+    text-align: center;
+    background-color: rgba(0, 0, 255, 0.315);
+    width: fit-content;
+    padding: 4px;
+
+}
+
+#mentions_legales:hover{
+    cursor: pointer;
+
+}
+
+#mention_text{
+    color: white;
+    font-size: larger;
+}

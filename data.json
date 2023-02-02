@@ -1,0 +1,47 @@
+[
+    {
+        "id" : "1",
+        "analogie": "une couleur",
+        "valeur_analogie": "du turquoise<br>",
+        "explication" : "car:<br>Complexes, imaginatifs et originaux,<br> les gens qui choisissent le turquoise comme couleur préférée sont durs envers eux-mêmes<br> et peuvent être en état d’agitation  intérieure sous une apparence détendue."
+    },
+    {
+        "id" : "2",
+        "analogie": "un animal",
+        "valeur_analogie": "un koala<br>",
+        "explication" : "Car c'est mon animal préféré depuis quelques années<br> et puis le mot koala se rapproche enormément<br>de mon pseudo actuel \"K0la\""
+    },
+    {
+        "id" : "3",
+        "analogie": "une musique",
+        "valeur_analogie": "I Ain't Worried<br>",
+        "explication" : "Car la premiere fois que je l'ai écouté<br>c'etait pendant l'un<br>des meilleurs moments de mes années de lycée",
+        "song" : "",
+        "clip" : ""
+    },
+    {
+        "id" : "4",
+        "analogie": "une fleur",
+        "valeur_analogie": "une marguerite<br>",
+        "explication" : "car comme beaucoup de fleurs blanches,<br> la marguerite incarne l'innocence, la virginité et la candeur.<br> Ses pétales, vierges de toute couleur,<br> symbolisent la douce naïveté de l'âme."
+    },
+    {
+        "id" : "5",
+        "analogie": "un personnage fictif<br>",
+        "valeur_analogie": "le Dr Hiluluk",
+        "explication" : "Ce personnage de One piece est l'un<br>de mes personnages préférés,<br> il est surtout connu pour sa citation:<br>\"Quand croyez-vous qu’un homme meurt ?<br> Quand il se prend une balle en plein cœur ? Non !<br> Quand il est atteint d’une maladie incurable ? Non !<br> Quand il a avalé une soupe de champignons vénéneux ? NON !<br> Un homme meurt lorsque<br> son souvenir tombe dans l’oubli !\""
+    },
+    {
+        "id" : "6",
+        "analogie": "un sport",
+        "valeur_analogie": "l'escalade<br>",
+        "explication" : "Car c'est un sport que je pratique depuis<br>de nombreuses années<br>Cette discipline m'a apprit beaucoup de chose<br> "
+    },
+    {
+        "id" : "7",
+        "analogie": "un jeu vidéo",
+        "valeur_analogie": "Tom Clancy's Rainbow Six Siege<br>",
+        "explication" : "Car ce jeu m'a permit de surmonter des moments difficiles;<br>C'est un jeu de tir tactique<br> où le joueur incarne différents agents de plusieurs unités de forces spéciales<br> et de groupes d'interventions qui constituent l'équipe Rainbow."
+    }
+
+]
